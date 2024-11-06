@@ -15,7 +15,7 @@ Get Influenza Type A Percentage for Boston
     Search_City    Boston
     #Step 3 Select the first suggestion from the drop down
     Select_First_Suggestion
-    #Step 4 Go
+    #Step 4 Go to Cold and Flu from "More Forecasts"
     Select_Specialty_Forcast
     #step 5 Find the percentage value for Influenza Type A
     Retrieve_Percentage_of_specific_Type
