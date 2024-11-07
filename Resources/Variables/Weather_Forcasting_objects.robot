@@ -8,4 +8,4 @@ ${More_Forcast_selection}    //nav/div/a/span[text()='${More_Forcast}']
 ${Forcast_Type}    Cold & Flu
 ${Influenza_Type}    //section/div[2]/div[1]/div/div[2]/h2[text()='${Type}']
 ${Type}           Influenza Type A
-${Percentage}     //section/div[2]/div[1]/div/div[2]/h2[text()='${Type}']/../../div
+${Percentage}     //section/div[2]/div[1]/div/div[2]/h2[text()='${Type}']/../../div[1]
